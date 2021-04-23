@@ -8,6 +8,6 @@ return playlist
 }
 
 function removeFromPlaylist(playlist, artistName) {
-  Object.assign({}, playlist, )
+  Object.assign({}, playlist,artistName )
  return playlist
 }
